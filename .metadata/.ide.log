@@ -1,0 +1,20 @@
+2023-02-03 13:25:46,887 [INFO] Activator:179 - 
+
+
+2023-02-03 13:25:46,887 [INFO] Activator:180 - !SESSION log4j initialized
+2023-02-03 13:26:02,876 [INFO] Activator:179 - 
+
+
+2023-02-03 13:26:02,892 [INFO] Activator:180 - !SESSION log4j initialized
+2023-02-03 13:26:31,611 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-02-03 13:26:31,611 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-02-03 13:26:31,611 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-02-03 13:27:41,611 [INFO] McuFinderGlobals:52 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-02-03 13:27:41,814 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.7.0.202211181646
+2023-02-03 13:27:41,829 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.7.0.202211181646\\db\/mcu/
+2023-02-03 13:27:41,829 [INFO] ApiDb:273 - Set plugin database path to: C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.7.0.202211181646\\db\/plugins/boardmanager/
+2023-02-03 13:27:41,845 [WARN] ApiDb:258 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.7.0.202211181646\\db\/plugins/mcufinder/images/
+2023-02-03 13:27:41,861 [INFO] ApiDb:249 - Set database path to: C:\Users\npedu002\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 13:27:41,861 [INFO] DbMcusAds:124 - Set database path to: C:\Users\npedu002\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 13:27:41,861 [INFO] CrossReferenceDbSqlite:202 - Set database path to: C:\Users\npedu002\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-03 13:27:41,986 [INFO] RulesReader:61 - Compatibility file has been processed (283 Rules)
